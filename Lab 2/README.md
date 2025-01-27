@@ -65,7 +65,7 @@ This script is intended for educational purposes only. It demonstrates how to ex
 The lab and vulnerability used in this script are part of the PortSwigger Web Security Academy. We thank PortSwigger for providing the learning materials and labs.
 
 For more details on the lab, visit the official lab page:
-PortSwigger SQL Injection - Login Bypass Lab
+https://portswigger.net/web-security/sql-injection/lab-login-bypass
 Acknowledgments
 
 Special thanks to PortSwigger for providing the SQL Injection learning path and the associated labs. These resources have been invaluable for understanding and practicing web application security.
