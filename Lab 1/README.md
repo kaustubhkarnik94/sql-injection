@@ -76,6 +76,8 @@ urllib3
 ---
 
 ## Disclaimer
-This script is for educational purposes only. It is owned by PortSwigger, and we thank them for providing the labs. Do not use this script on systems you do not own or have explicit permission to test.
+
+This repository is for educational purposes only. The labs are owned by **PortSwigger**, and we thank them for providing these valuable learning resources. The scripts and solutions are created for educational use and should not be used on systems you do not own or have explicit permission to test.
+
 
 
