@@ -6,7 +6,7 @@ This repository contains a series of SQL Injection challenges and solutions, bas
 
 SQL Injection (SQLi) is one of the most common and dangerous web application vulnerabilities. This repository provides a hands-on approach to learning and exploiting SQL injection vulnerabilities. It includes a variety of labs that cover different aspects of SQL injection, from basic exploitation to advanced techniques.
 
-The labs in this repository are based on the SQL Injection learning path provided by PortSwigger. Each lab is accompanied by a solution script written by me, demonstrating the steps to exploit the vulnerability, along with explanations and comments to help learners understand the underlying concepts.
+The labs in this repository are based on the SQL Injection learning path provided by PortSwigger. The code and solutions are designed to demonstrate how to exploit the vulnerabilities, with explanations and comments to help learners understand the underlying concepts.
 
 ## Learning Path
 
@@ -40,8 +40,8 @@ Each folder contains the following files:
 
 This repository is strictly for educational purposes only. It contains materials and scripts for learning about SQL injection vulnerabilities in a controlled, ethical environment. **Do not use these scripts on systems you do not own or have explicit permission to test**.
 
-The labs in this repository are based on the SQL Injection learning path provided by **PortSwigger**. All code in this repository, including scripts and solutions, is my own work and is shared for educational purposes only.
+The labs in this repository are based on the SQL Injection learning path provided by **PortSwigger**. The code and solutions in this repository have been created with assistance from external educational resources and are shared for educational purposes only.
 
 ## Acknowledgments
 
-A special thanks to **PortSwigger** for providing the SQL Injection learning path, which has been an invaluable resource for understanding and practicing web application security. Without their educational content, this repository would not have been possible.
+A special thanks to **PortSwigger** for providing the SQL Injection learning path, which has been an invaluable resource for understanding and practicing web application security.
