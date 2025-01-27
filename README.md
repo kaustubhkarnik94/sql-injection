@@ -44,4 +44,4 @@ The labs in this repository are based on the SQL Injection learning path provide
 
 ## Acknowledgments
 
-A special thanks to **PortSwigger** for providing the SQL Injection learning path, which has been an invaluable resource for understanding and practicing web application security.
+A special thanks to **PortSwigger** for providing the SQL Injection learning path, which has been an invaluable resource for understanding and practicing web application security. You can explore the full learning path here: [PortSwigger SQL Injection Learning Path](https://portswigger.net/web-security/learning-paths/sql-injection).
