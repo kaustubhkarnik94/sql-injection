@@ -66,6 +66,8 @@ The lab and vulnerability used in this script are part of the PortSwigger Web Se
 
 For more details on the lab, visit the official lab page:
 https://portswigger.net/web-security/sql-injection/lab-login-bypass
+
+
 Acknowledgments
 
 Special thanks to PortSwigger for providing the SQL Injection learning path and the associated labs. These resources have been invaluable for understanding and practicing web application security.
