@@ -31,7 +31,11 @@ Example:
 The script will attempt to bypass the login and log you in as the administrator user.
 Lab URL
 
-This lab is part of the SQL Injection Learning Path provided by PortSwigger. You can access the lab at the following URL: [Login Bypass Lab - PortSwigger](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
+This lab is part of the SQL Injection Learning Path provided by PortSwigger. You can access the lab at the following 
+
+URL: [Login Bypass Lab - PortSwigger](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
+
+
 Disclaimer
 
 This repository is for educational purposes only. The scripts and challenges provided here should not be used on systems you do not own or have explicit permission to test.
